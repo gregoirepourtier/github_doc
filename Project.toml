@@ -1,0 +1,9 @@
+name = "github_doc"
+uuid = "18c7f37f-4df5-4de2-a8f4-af7673625997"
+authors = ["gregoirepourtier <gpourtier@icloud.com>"]
+version = "0.1.0"
+
+[deps]
+ExtendableSparse = "95c220a8-a1cf-11e9-0c77-dbfce5f500b3"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
