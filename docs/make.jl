@@ -4,7 +4,7 @@ using github_doc
 makedocs(
     sitename = "github_doc",
     format = Documenter.HTML(),
-    modules = [github_doc]
+    modules = [github_doc],
     pages = ["Introduction" => "index.md"]
 )
 
