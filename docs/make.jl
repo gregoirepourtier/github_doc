@@ -21,10 +21,6 @@ makedocs(
 #                     "How ForwardDiff Works" => "dev/how_it_works.md",
 #                     "How to Contribute" => "dev/contributing.md"]])
 
-
-# Documenter can also automatically deploy documentation to gh-pages.
-# See "Hosting Documentation" and deploydocs() in the Documenter manual
-# for more information.
 deploydocs(
     repo = "github.com/gregoirepourtier/github_doc.git"
 )
